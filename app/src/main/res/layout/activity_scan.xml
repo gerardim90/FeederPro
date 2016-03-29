@@ -12,5 +12,14 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Please input name of product"
+        android:textColor="#010008"
+        android:textStyle="bold"
+        android:phoneNumber="false"
+        android:clickable="false"
+        android:textSize="24dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/textView" />
+
 </RelativeLayout>
